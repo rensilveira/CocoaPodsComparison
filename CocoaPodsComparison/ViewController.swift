@@ -7,6 +7,16 @@
 //
 
 import UIKit
+import Firebase
+import FirebaseCore
+import FirebaseAnalytics
+import FirebaseInstanceID
+import FirebasePerformance
+import FirebaseRemoteConfig
+import FirebaseABTesting
+import FirebaseInAppMessagingDisplay
+import Realm
+import RealmSwift
 
 class ViewController: UIViewController {
 
